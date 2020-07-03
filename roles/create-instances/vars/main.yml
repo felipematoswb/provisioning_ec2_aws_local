@@ -1,7 +1,7 @@
 ---
 # vars file for create-instances
 instance_type: t2.micro
-sec_group_name: girocops
+sec_group_name: InfraAsCode
 image: ami-085925f297f89fce1
 keypair: aws-access
 region: us-east-1

@@ -73,8 +73,8 @@
       cidr_ip: 0.0.0.0/0
       rule_desc: App-giropops
     rules_egress:
-    rules_egress:
-    rules_egress:
+    #rules_egress:
+    #piprules_egress:
     - proto: all
       cidr_ip: 0.0.0.0/0
   register: basic_firewall
