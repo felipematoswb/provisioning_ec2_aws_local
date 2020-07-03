@@ -1,9 +1,8 @@
 ## provisioning instance on AWS with ANSIBLE
 
-## steps
 ### install boto
 ### use credentials AWS
-### configure variables
+### configure variables in "provisioning_ec2_aws_local/roles/create-instances/vars/main.yml"
 - instance_type: t2.micro
 - sec_group_name: InfraAsCode
 - image: ami-085925f297f89fce1
