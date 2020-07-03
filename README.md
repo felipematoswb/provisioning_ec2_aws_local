@@ -1,5 +1,3 @@
-# provisioning_ec2_aws_local
-
 ## provisioning instance on AWS with ANSIBLE
 
 ## steps
